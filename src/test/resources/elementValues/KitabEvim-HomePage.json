@@ -1,0 +1,57 @@
+[
+  {
+    "key"   : "homePageContent",
+    "value" : "div[class='logo-wrapper']",
+    "type"  : "css"
+  },
+  {
+    "key"   : "searchField",
+    "value" : "//div[@class='ts-search-by-category hidden-ipad']/form/div/div[1]/input[1]",
+    "type"  : "xpath"
+  },
+  {
+    "key"   : "bookSelect",
+    "value" : "(//div[@class='thumbnail-wrapper'])[3]",
+    "type"  : "xpath"
+  },
+  {
+    "key"   : "addToCartBtn",
+    "value" : "button[name='add-to-cart']",
+    "type"  : "css"
+  },
+  {
+    "key"   : "cartIconBtn",
+    "value" : "//div[@class='shopping-cart-wrapper hidden-phone']",
+    "type"  : "xpath"
+  },
+  {
+    "key"   : "viewCartBtn",
+    "value" : "//div[@class='shopping-cart-wrapper hidden-phone']",
+    "type"  : "xpath"
+  },
+  {
+    "key"   : "increased1Btn",
+    "value" : "(//input[@value='+'])[3]",
+    "type"  : "xpath"
+  },
+  {
+    "key"   : "refreshCartBtn",
+    "value" : "button[name='update_cart']",
+    "type"  : "css"
+  },
+  {
+    "key"   : "pageMessagesField",
+    "value" : "div[class='woocommerce-message']",
+    "type"  : "css"
+  },
+  {
+    "key"   : "crossBtn",
+    "value" : "a[class='remove']",
+    "type"  : "css"
+  },
+  {
+    "key"   : "emptyMessagesField",
+    "value" : "p[class='cart-empty woocommerce-info']",
+    "type"  : "css"
+  }
+]
