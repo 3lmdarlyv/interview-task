@@ -7,7 +7,7 @@
 - A random book is chosen from the search results.
 - "Səbətə at" button is clicked.
 - The value of the basket icon at the top right of the webpage is checked.
-- The basket icon is hovered on.- SVG element problem on website
+- The basket icon is hovered on.-                                  SVG element locator problem on website   
 - "Səbətə bax" button is clicked.
 - The amount of the product is increased by “1”.
 - "Səbəti yenilə" button is clicked.
